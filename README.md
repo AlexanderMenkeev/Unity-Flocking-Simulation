@@ -1,4 +1,4 @@
-![Alt text](/screenshot.jpg?raw=true "Optional Title")
+![Alt text](screenshot.png?raw=true "Title")
 
 # Flocking-Simulation
 This simulation models flocking behavior in birds and other animals.
