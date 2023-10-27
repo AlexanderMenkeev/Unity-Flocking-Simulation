@@ -1,4 +1,4 @@
-![Alt text](screenshot.png?raw=true "Title")
+![Alt text](flockingDemo.gif?raw=true "Title")
 
 # Flocking-Simulation
 This simulation models flocking behavior in birds and other animals.
