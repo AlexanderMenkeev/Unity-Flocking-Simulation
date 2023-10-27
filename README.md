@@ -17,5 +17,5 @@ Preferable version of Unity is 2021.3
 
 ## Features
 1. UI optimized for mobile devices;
-2. You can pinch to change scale;
+2. You can pinch to change field of view;
 3. Birds will avoid places on the screen that your fingers touch.
